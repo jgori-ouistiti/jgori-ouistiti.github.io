@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,49 +11,44 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S. in Electrical Engineering ([ENS Cachan](https://en.wikipedia.org/wiki/%C3%89cole_normale_sup%C3%A9rieure_Paris-Saclay), 2014)
+* M.S. in Wireless Communications (ENS Cachan, Supélec, Université Paris-Sud, 2015)
+* Ph.D in Science and Technology of Information and Communications (Université Paris-Saclay, 2018)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Post-doctoral fellow at LRI, with Michel Beaudouin-Lafon (2019-2020)
+* Post-doctoral fellow at Aalto University & Finnish Center for Artificial Intelligence (FCAI), with Antti Oulasvirta
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Local chair for IUI 2022
+* Data co-chair for UIST 2021
+
+Reviews
+========
+* HCI:
+	+ CHI (2017-2020)
+	+ UIST (2019-2021)
+	+ MobileHCI (2019, 2021)
+	+ NordiCHI (2018, 2020)
+	+ TOCHI (2020, 2021)
+	+ IJHCS (2020, 2021)
+	+ OzCHI (2020)
+	+ TCHI (2020)
+	+ Interact (2021)
+* Others:
+	+ EUSIPCO (2019)
+	+ SMC (2018)
+
+
+

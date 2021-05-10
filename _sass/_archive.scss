@@ -2,8 +2,13 @@
    ARCHIVE
    ========================================================================== */
 
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 1em 0 0 0;
+}
+
 .archive {
-  margin-bottom: 2em;
+	  margin-bottom: 2em;
 
   @include breakpoint($medium) {
     @include span(12 of 12);
@@ -13,9 +18,10 @@
     @include span(10 of 12 last);
     @include prefix(0.5 of 12);
   }
+/* Changed this */
 
   a {
-    text-decoration: underline;
+    text-decoration: none;
 
     &:hover {
       text-decoration: underline;
@@ -25,6 +31,9 @@
       }
     }
   }
+
+
+
 }
 
 .archive__subtitle {
@@ -80,7 +89,7 @@
   }
 
   .archive__item-title {
-    text-decoration: underline;
+    /*text-decoration: underline;*/
   }
 }
 
@@ -90,6 +99,7 @@
    ========================================================================== */
 
 .list__item {
+
   @include breakpoint($medium) {
     padding-right: $right-sidebar-width-narrow;
   }

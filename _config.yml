@@ -83,7 +83,7 @@ author:
   name             : "Julien Gori"
   avatar           : "profile.png"
   bio              : "HCI Researcher"
-  location         : "Espoo, Finland and Paris, France"
+  location         : "Espoo (FI) and Paris (FR)"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=julien+gori"
   googlescholar    : "https://scholar.google.com/citations?user=YL0cIIMAAAAJ&hl=en"
@@ -114,6 +114,7 @@ author:
   weibo            :
   xing             :
   youtube          :
+  strava           : "https://www.strava.com/athletes/49814528"
   wikipedia        :
 
 
@@ -255,7 +256,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Paris # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins

@@ -202,6 +202,12 @@
 .ai-springer-square:before {
   content: "\e859";
 }
+
+.ai-strava:before{
+    content: url('https://api.iconify.design/simple-icons:strava.svg?height=14');
+vertical-align: -0.125em;
+}
+
 .ai-zotero:before {
   content: "\e860";
 }
@@ -265,7 +271,7 @@
 .ai.fa-pull-right {
   margin-left: .3em;
 }
-/*  
+/*
  *  Repeat of the FontAwesome style classes to prevent override if academicons.css
  *  is called after font-awesome.css.
  */
