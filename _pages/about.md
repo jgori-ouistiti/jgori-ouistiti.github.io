@@ -10,6 +10,8 @@ redirect_from:
 
 
 
+Site under construction
+
 
 
 I conduct my research in Human Computer Interaction (HCI), where I look to better understand how humans use, cooperate, and interact with artificial and computing devices. 
